@@ -1,7 +1,7 @@
 ## Hi, I'm Gagan Parmar👋
 - 👀 I’m interested in.. IoT, Embedded Systems & Orchestration
 - 🌱 I’m currently learning kubernetes
-- Ask me about python IoT , Full stack development
+- Ask me about python IoT
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
