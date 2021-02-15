@@ -1,4 +1,4 @@
-# Hi I am Gagan Parmar👋
+## Hi, I'm Gagan Parmar👋
 - 👀 I’m interested in ..
 - 🌱 I’m currently learning kubernetes
 - 💞️ I’m looking to collaborate on ...
